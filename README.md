@@ -9,7 +9,7 @@
 
 ## Objetivo
 
-Colocar em pratica os conceitos de API rest com o Laravel
+Colocar em prática os conceitos de API rest com o Laravel
 
 
 
