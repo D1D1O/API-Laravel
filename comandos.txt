@@ -1,0 +1,23 @@
+
+
+Aula https://www.youtube.com/watch?v=jq-FkfKBZ50&t=193s&ab_channel=CodeExperts
+
+laravel new api-rest
+
+php artisan make:model Store -mf
+
+php artisan make:model Product -mf
+
+php artisan migrate
+
+php artisan db:seed
+
+php artisan tinker
+
+php artisan make:controller Api/StoreController --resource --api
+
+php artisan route:list
+
+php artisan serve
+
+php artisan make:controller Api/ProductController -r --api
