@@ -21,3 +21,7 @@ php artisan route:list
 php artisan serve
 
 php artisan make:controller Api/ProductController -r --api
+
+git remote add origin https://github.com/D1D1O/API-Laravel
+
+git push -u origin master
